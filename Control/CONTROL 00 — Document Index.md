@@ -32,7 +32,7 @@ CONTROL 04 — Repository Structure & Code Organization
 OPERATIONAL TRUTH (project-specific models)
 
 ```
-{{FILL: list project models here, e.g. CONTROL 05 — <Domain> Data Model}}
+Planned before Phase 1: CONTROL 05 — Lesson Source & Approval Rule
 ```
 
 AI + EXECUTION
