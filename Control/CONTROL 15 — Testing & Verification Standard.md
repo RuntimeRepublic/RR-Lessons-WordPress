@@ -1,9 +1,9 @@
 CONTROL 15 — Testing & Verification Standard
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-11-16
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: RR-Lessons-WordPress
 
 ---
 

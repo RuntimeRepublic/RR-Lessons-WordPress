@@ -1,15 +1,15 @@
 CONTROL 01 — Project Goal & Scope
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-11-16
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: RR-Lessons-WordPress
 
 ---
 
 # 1. Purpose
 
-This document defines **what {{PROJECT_NAME}} is, what it must achieve, and what it must not do**.
+This document defines **what RR-Lessons-WordPress is, what it must achieve, and what it must not do**.
 
 Every other CONTROL document serves the goals defined here.
 
