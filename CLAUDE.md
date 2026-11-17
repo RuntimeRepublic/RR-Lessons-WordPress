@@ -1,4 +1,4 @@
-# {{PROJECT_NAME}} — AI Assistant Rules
+# RR-Lessons-WordPress — AI Assistant Rules
 
 Read before any change. Full protocol: `Control/CONTROL 08 — AI Development Interaction Protocol.md`.
 

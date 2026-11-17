@@ -1,9 +1,9 @@
 CONTROL 00 — Document Index & Architecture Navigation Map
 
 Version: 1.0
-Date: {{DATE}}
+Date: 2026-11-16
 Status: Authoritative (System-Wide)
-Project: {{PROJECT_NAME}}
+Project: RR-Lessons-WordPress
 
 ---
 
@@ -32,7 +32,7 @@ CONTROL 04 — Repository Structure & Code Organization
 OPERATIONAL TRUTH (project-specific models)
 
 ```
-{{FILL: list project models here, e.g. CONTROL 05 — <Domain> Data Model}}
+Planned before Phase 1: CONTROL 05 — Lesson Source & Approval Rule
 ```
 
 AI + EXECUTION
